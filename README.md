@@ -1,5 +1,8 @@
 # Análise de Séries Temporais Aplicada ao Monitoramento de Emissões de CO₂
 
+## Apresentação em Vídeo
+https://youtu.be/cfHCef4vVwg
+
 ## Sobre o Projeto
 
 Projeto de Ciência de Dados com o objetivo de analisar a evolução histórica das emissões de dióxido de carbono (CO₂) e investigar a viabilidade das metas de neutralidade de carbono (Net Zero) propostas por diferentes países.
